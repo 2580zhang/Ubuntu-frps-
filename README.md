@@ -23,7 +23,7 @@
 ### 方法1：直接运行脚本
 
 ```bash
-wget -O frps_onekey.sh https://raw.githubusercontent.com/yourusername/frps-onekey/main/frps_onekey.sh
+wget -O frps_onekey.sh https://github.com/2580zhang/Ubuntu-frps-/blob/main/frps_onekey.sh
 chmod +x frps_onekey.sh
 ./frps_onekey.sh
 ```
@@ -31,7 +31,7 @@ chmod +x frps_onekey.sh
 ### 方法2：克隆仓库后运行
 
 ```bash
-git clone https://github.com/yourusername/frps-onekey.git
+git clone https://github.com/2580zhang/Ubuntu-frps-.git
 cd frps-onekey
 chmod +x frps_onekey.sh
 ./frps_onekey.sh
